@@ -25,8 +25,6 @@ This is a simple Tic Tac Toe game built with React. The game allows two players 
   - การตรวจสอบผู้ชนะ: เกมจะตรวจสอบผู้ชนะหลังจากการเล่นแต่ละครั้ง
 - **Reset button**: A reset button to restart the game at any time.
   - ปุ่มรีเซ็ต: ปุ่มที่ให้ผู้เล่นสามารถเริ่มเกมใหม่ได้ทุกเวลา
-- **Mobile responsive**: The game is responsive to different screen sizes, making it playable on both desktop and mobile devices.
-  - รองรับมือถือ: เกมสามารถปรับขนาดหน้าจอให้เหมาะสมกับอุปกรณ์ทั้งบนเดสก์ท็อปและมือถือ
 
 ## Installation / การติดตั้ง
 1. Clone the repository to your local machine.
